@@ -1,4 +1,4 @@
-<img width="1028" height="805" alt="image" src="https://github.com/user-attachments/assets/c1e7ae4d-b87a-425a-8885-5ac822b8f6c5" />ChatGPT Plus会员最新优惠购买渠道推荐
+ChatGPT Plus会员最新优惠购买渠道推荐
 
 ChatGPT Plus会员购买渠道
 https://gpt.daydaystudy.site
@@ -10,4 +10,4 @@ https://gpt.daydaystudy.site
 
 执行第二步登录 chatgpt，拿到自己账号 session 直接充值到自己账号
 
-![步骤一](02.png)
+<img width="1028" height="805" alt="image" src="https://github.com/user-attachments/assets/c1e7ae4d-b87a-425a-8885-5ac822b8f6c5" />
